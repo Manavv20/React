@@ -2,6 +2,14 @@
 
 > Please help us improve and share your feedback! If you find better tutorials or links, please share them by [opening a pull request](https://github.com/HackYourFuture/React/pulls).
 
+## Introduction to React
+
+- React is JavaScript Library for building User Interfaces which mainly invovles building single-page applications. The biggest advantage with React is we can create reusable UI Components. It is Maintained by Meta and a Community of individual developers and companies. React can also be used to develop single page, mobile and server-rendered applications with frameworks like Nextjs.
+- Component Based coding. React Builds encapsulated components that manage their own state, then compose them to make complex UIs. Since the component logic is written in JavaScript instead of templates, we can easily pass rich data through the app and keep state out of the DOM.
+- Learn Once, Write Anywhere. We dont make assumptions about the rest of our technology stack, so you can develop new features in React without rewriting existing code. We can also render on the server using Node and Power Mobile apps using React Native.
+- Declarative, React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
+- ReactJS is the most widely used JS Library for developing various web Application.
+g
 # Module #7 - React.js: Building dynamic UIs with modern JavaScript (Frontend)
 
 ![React Module](./assets/react.png)
