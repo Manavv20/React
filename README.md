@@ -9,7 +9,7 @@
 - Learn Once, Write Anywhere. We dont make assumptions about the rest of our technology stack, so you can develop new features in React without rewriting existing code. We can also render on the server using Node and Power Mobile apps using React Native.
 - Declarative, React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
 - ReactJS is the most widely used JS Library for developing various web Application.
-g
+
 # Module #7 - React.js: Building dynamic UIs with modern JavaScript (Frontend)
 
 ![React Module](./assets/react.png)
